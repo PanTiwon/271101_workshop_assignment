@@ -1,0 +1,11 @@
+A = 1
+B = 4
+name = input()
+print("hello world")
+print("countdown")
+for i in range(5):
+    print(i)
+    print("your name")
+    name = input()
+    print("hello "+name)
+
